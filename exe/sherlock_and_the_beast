@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "sherlock_and_the_beast"
